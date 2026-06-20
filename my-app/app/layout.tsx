@@ -23,8 +23,9 @@ export default function RootLayout({
              My Plans
            </a>
         </nav>
-        <main className="max-w-2xl mx-auto px-4 py-10" >
-        {children}</main>
+        <main className="max-w-2xl mx-auto px-4 py-10">
+          {children}
+        </main>
       </body>
     </html>
   )}
